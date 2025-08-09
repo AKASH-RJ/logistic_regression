@@ -1,0 +1,50 @@
+Gender,Married,ApplicantIncome,LoanAmount,Credit_History,Loan_Status
+Male,Yes,5000,200,1,Approved
+Female,No,3000,150,1,Approved
+Male,Yes,4000,250,1,Approved
+Female,No,2500,100,0,Not Approved
+Male,Yes,6000,300,1,Approved
+Male,No,3500,120,0,Not Approved
+Female,Yes,4500,180,1,Approved
+Male,Yes,7000,350,1,Approved
+Female,No,2800,130,0,Not Approved
+Male,No,3200,140,0,Not Approved
+Male,Yes,5000,200,1,Approved
+Female,Yes,4000,160,1,Approved
+Male,Yes,6500,310,1,Approved
+Female,No,2700,110,0,Not Approved
+Male,No,3000,150,0,Not Approved
+Male,Yes,4800,210,1,Approved
+Female,Yes,4200,170,1,Approved
+Male,Yes,7200,400,1,Approved
+Female,No,2600,120,0,Not Approved
+Male,No,3100,140,0,Not Approved
+Male,Yes,5300,230,1,Approved
+Female,Yes,3900,150,1,Approved
+Male,Yes,6800,330,1,Approved
+Female,No,2400,100,0,Not Approved
+Male,No,3400,160,0,Not Approved
+Male,Yes,5600,280,1,Approved
+Female,Yes,4100,180,1,Approved
+Male,Yes,7500,420,1,Approved
+Female,No,2300,90,0,Not Approved
+Male,No,3600,170,0,Not Approved
+Male,Yes,5900,260,1,Approved
+Female,Yes,4300,190,1,Approved
+Male,Yes,7100,390,1,Approved
+Female,No,2200,80,0,Not Approved
+Male,No,3300,150,0,Not Approved
+Male,Yes,5700,240,1,Approved
+Female,Yes,4400,200,1,Approved
+Male,Yes,7600,450,1,Approved
+Female,No,2100,70,0,Not Approved
+Male,No,3500,160,0,Not Approved
+Male,Yes,6000,300,1,Approved
+Female,Yes,4600,210,1,Approved
+Male,Yes,7400,410,1,Approved
+Female,No,2000,60,0,Not Approved
+Male,No,3200,140,0,Not Approved
+Male,Yes,5800,270,1,Approved
+Female,Yes,4700,220,1,Approved
+Male,Yes,7700,460,1,Approved
+Female,No,1900,50,0,Not Approved
